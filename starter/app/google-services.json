@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318564111686",
+    "firebase_url": "https://mellifl.firebaseio.com",
+    "project_id": "mellifl",
+    "storage_bucket": "mellifl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318564111686:android:f049e79707ee7b41fdc147",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit_custommodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318564111686-3eled0e2o2tcudo540i3qcoc0jjrpqg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2TxNF1j7IotAVGVkBzQwkB__jVy2vEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318564111686-3eled0e2o2tcudo540i3qcoc0jjrpqg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
